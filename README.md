@@ -47,7 +47,7 @@ torch tutorial 给了bi-lstm-crf做ner的例子,不过是基于cpu运行的
 晚点会补上,并加上与其他几个模型的F-score对比
 
 ### 参考
-> [写的很好的原始中文pytorch版本](https://github.com/buppt/ChineseNER)
-> [python改为3的tensorflow版本](https://github.com/WenRichard/NER-TF/tree/master/NER-Chinese-BiLSTM%2BCRF)
-> [RNN做NER, in tf](https://github.com/zjy-ucas/ChineseNER)
+> [写的很好的原始中文pytorch版本](https://github.com/buppt/ChineseNER)  
+> [python改为3的tensorflow版本](https://github.com/WenRichard/NER-TF/tree/master/NER-Chinese-BiLSTM%2BCRF)  
+> [RNN做NER, in tf](https://github.com/zjy-ucas/ChineseNER)  
 > [bert-bilstm-crf-ner in tf](https://github.com/macanv/BERT-BiLSTM-CRF-NER)

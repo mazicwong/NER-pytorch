@@ -35,12 +35,14 @@ torch tutorial 给了bi-lstm-crf做ner的例子,不过是基于cpu运行的
 我觉得比单纯cpu就快了一点点...没有特别大改进..猜想是因为lstm跟rnn一样也是一个序列化模型,跑并行效果并不明显
 
 ### 结构
-> pytorch/
->   BiLSTM_CRF.py 模型
->   train.py boson数据集
->   raw_train.py tutorial的测试例子
-> data/
->   data_util.py 
+```
+ pytorch/
+   BiLSTM_CRF.py 模型
+   train.py boson数据集
+   raw_train.py tutorial的测试例子
+ data/
+   data_util.py 
+```
 
 
 ### tensorflow版本
